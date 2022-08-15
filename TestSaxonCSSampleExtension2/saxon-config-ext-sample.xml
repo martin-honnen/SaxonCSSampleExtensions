@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration xmlns="http://saxon.sf.net/ns/configuration">
+	<resources>
+		<extensionFunction>SaxonCSSampleExtensions.Sqrt</extensionFunction>
+	</resources>
+</configuration> 
